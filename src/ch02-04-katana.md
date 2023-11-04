@@ -102,7 +102,7 @@ node.
 
 To stop the local Starknet node, simply press `Ctrl+C`.
 
-The local Starknet node does not persist data. Hence, once it’s stopped,
+The local Starknet node does not persist data. Therefore, once it’s stopped,
 all data will be erased.
 
 For a practical demonstration of `katana` to deploy and interact with a
